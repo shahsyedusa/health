@@ -6,6 +6,8 @@ Health Quiz application using:
 - Python 3
 - SQLAlchemy
 - FastAPI
+- Docker
+- PostgreSQL
 
 Autogenerates OAS spec for utilizing on the front-end
 
